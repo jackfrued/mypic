@@ -1,1 +1,0 @@
-感谢Gitee为Markdown提供图床服务。
